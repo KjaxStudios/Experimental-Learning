@@ -28,3 +28,9 @@ just a simple code that will kill the player when his health is less than 0.
 it might not all be correct but its a good bit of it. its used by unity 3d and is not pure javescript.
 anyways what should our first game be?
 need help!
+
+# tips and things
+please to take your time to read over the tips and things.md
+file. i have explained a few things that we will most likely be using.
+- Dester Dasqwe A.K.A Mason Red
+
