@@ -77,9 +77,11 @@ html
  that would just totally blow our minds away. 
  Connor suggests we add ingame crafting. like minecraft.  
  #hiring more members. 
- yes we need to hire as many as possile. ask them waht they are good at, then assign them to the team that 
+ yes we need to hire as many as possile. ask them what they are good at, then assign them to the team that 
  fit them the best. 
  sorry, but unitl we release a game and it starts selling i dont think anyone would get paid. 
+ #Makest Deez Gamest
+ well, Game salad or Unity would work fine, if you can figure them out. but! starting from scrath is an option (C# ancient history based) or writing in BASIC (whatever the heck that might be... i think its from 1961 LOL) BUT anyways im sure we could come up with some nice free program(Hello Unity!) for making 3D and 2D games(Unity again! they also have a free version) Publishing games? Might do it on steam. But of course, they limit accounts unless you want to spend $5.00 USD!! :/ but anway yah thats about it, happy programming! or drawing! or designing! 
 #thats it for now! 
  thats just about about everything! 
  we probably will have more soon on the subject. 
