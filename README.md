@@ -32,7 +32,7 @@ need help!
 #python language 
  hello! 
  some of us.(mostly me) have been wondering about a programming language called python. 
- yes python. sounds scary but its just abotu the same as javascript. 
+ yes python. sounds scary but its just about the same as javascript. 
  simple and fun. 
  # javascript 
  Really imple language. just amke a function and tell it what the functin does to a variable (var) 
